@@ -18,6 +18,7 @@ Hi there, welcome to my profile 👋 I'm Phil, 19 years old and currently studyi
 
 #### JavaScript:
 - [sapphyrus/nbhourboost](https://github.com/sapphyrus/hsctf-2019), a simple and easy-to-use Steam hourboost tool (don't judge the code too much, I wrote this 3 years ago)
+- [gamesensical/gamesensical.github.io](https://github.com/gamesensical/gamesensical.github.io), a js tool that optimizes and beautifies lua code by, for example, localizing global variables (to reduce string table lookups). The code is pretty messy and I'm not a big fan of JS anyway..
 
 #### Lua:
 - [sapphyrus/table_gen.lua](https://github.com/sapphyrus/table_gen.lua), a lua library to generate ascii tables inspired by [ozh's Ascii Table Generator website](https://ozh.github.io/ascii-tables/)
