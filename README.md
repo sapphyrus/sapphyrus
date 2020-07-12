@@ -10,7 +10,7 @@ Hi there, welcome to my profile 👋 I'm Phil, 19 years old and currently studyi
 ## ⚡ Here are some of my current/past projects:
 
 #### Ruby:
-- [sapphyrus/vdf](https://github.com/sapphyrus/vdf), a really fast *Valve Data Format* parser / serializer for Ruby
+- [sapphyrus/vdf](https://github.com/sapphyrus/vdf), a really fast *Valve Data Format* parser / serializer gem for Ruby (Published at [RubyGems](https://rubygems.org/gems/vdf))
 - [sapphyrus/PwnAdventure3Proxy](https://github.com/sapphyrus/PwnAdventure3Proxy), a [PWN Adventure 3](https://www.pwnadventure.com/) proxy written in Ruby with features such as a pretty clean and modular packet deserializer, basic Aimbot, unlimited Mana and Health and hot reloading of the code.
 - [gamesensical/docs](https://github.com/gamesensical/docs), a alternative [lua documentation](https://gamesensical.gitbook.io/docs/) for gamesense. A Ruby tool dynamically generates gitbook, mkdocs and emmylua directories from a few template files and json data
 - [sapphyrus/mcd-survey-bot](https://github.com/sapphyrus/mcd-survey-bot), a telegram bot that automatically retrieves the free drink codes from a promotion McDonald's ran in Germany in 2019
