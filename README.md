@@ -1,6 +1,5 @@
-# Hi there
-
-Welcome to my profile 👋 I'm Phil, 19 years old and currently studying Cybersecurity in Germany.
+# sapphyrus
+Hi there, welcome to my profile 👋 I'm Phil, 19 years old and currently studying Cybersecurity in Germany.
 
 ### 💬 If you want to contact me, here's how:
 - ![Discord Logo](https://i.imgur.com/002xgns.png) __Discord__ - Phil#9999
