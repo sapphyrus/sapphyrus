@@ -1,5 +1,5 @@
 # sapphyrus
-Hi there, welcome to my profile 👋 I'm Phil, 19 years old and currently studying Cybersecurity in Germany.
+Hi there, welcome to my profile 👋 I'm Phil, 19 years old and currently studying Cybersecurity in Germany. I'm interested in programming, application security and game hacking. My language of choice is usually Ruby ❤ or Crystal (as you can see from my projects) but I'm also pretty proficient in Lua and ok-ish in JavaScript, Java, C++, C# and PHP.
 
 ### 💬 If you want to contact me, here's how:
 - ![Discord Logo](https://i.imgur.com/002xgns.png) __Discord__ - Phil#9999
