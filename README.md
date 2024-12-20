@@ -1,5 +1,4 @@
 # sapphyrus
-Hi there, welcome to my profile 👋 I'm Phil, 19 years and from Germany. I'm interested in programming, application security, gaming and game hacking. My language of choice is usually Ruby ❤ or Crystal (as you can see from my projects) but I'm also pretty proficient in Lua and ok-ish in JavaScript, Java, C++, C# and PHP.
 
 ## 💬 Contact
 - ![Telegram Logo](https://i.imgur.com/GvBrDW5.png) __Telegram__ - [sapphyrus](https://t.me/sapphyrus)
