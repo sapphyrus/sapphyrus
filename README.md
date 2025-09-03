@@ -13,7 +13,7 @@
 - [gamesensical/docs](https://github.com/gamesensical/docs), a alternative [lua documentation](https://gamesensical.gitbook.io/docs/) for gamesense. A Ruby tool dynamically generates gitbook, mkdocs and emmylua directories from a few template files and json data
 
 #### JavaScript:
-- [sapphyrus/nbhourboost](https://github.com/sapphyrus/hsctf-2019), a simple and easy-to-use Steam hourboost tool (don't judge the code too much, I wrote this years ago)
+- [sapphyrus/nbhourboost](https://github.com/sapphyrus/nbhourboost), a simple and easy-to-use Steam hourboost tool (don't judge the code too much, I wrote this years ago)
 
 #### Lua:
 - [sapphyrus/table_gen.lua](https://github.com/sapphyrus/table_gen.lua), a lua library to generate ascii tables inspired by [ozh's Ascii Table Generator website](https://ozh.github.io/ascii-tables/)
